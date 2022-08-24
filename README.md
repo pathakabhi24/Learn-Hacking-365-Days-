@@ -5,4 +5,4 @@ This repository contains all the information shared during my Learn 365 days Cha
 -------
 Day  | Topic
 --- | ---
-**1** | [<ul><li>Learn Javascript </li><li> The Tool Box karma v2 and 4-ZERO-3 - Talk </li><li> Finding and exploiting unintended functionality in main web app APIs - Writeup </li><li> Workflow for Javascript Recon</li></ul>](/days/day1.md)
+**1** | [<ul><li> My Writeup- How to get started in Cybersecurity </li><li> 2022 Cybersecurity roadmap: How to get started? </li></ul>](/days/day1.md)
