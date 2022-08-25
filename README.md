@@ -7,4 +7,4 @@ Follow me on Twitter for Regular Updates: [Abhinav Pathak](https://twitter.com/i
 Day  | Topic
 --- | ---
 **1** | [<ul><li> My Writeup- How to get started in Cybersecurity </li><li> 2022 Cybersecurity roadmap: How to get started? </li></ul>](/days/day1.md)
-**2** | [<ul><li>My Writeup- Cybersecurity Learning Path </li><li> Cybersecurity Roadmap-By (Traw (https://twitter.com/xtremepentest)) </li><li> Read Ghost in the Wires - My Adventures as the World's Most Wanted Hacker by Kevin Mitnick - Book</li></ul>](/days/day2.md)
+**2** | [<ul><li>My Writeup- Cybersecurity Learning Path </li><li> Cybersecurity Roadmap-By Traw </li><li> Read Ghost in the Wires - My Adventures as the World's Most Wanted Hacker by Kevin Mitnick - Book</li></ul>](/days/day2.md)
