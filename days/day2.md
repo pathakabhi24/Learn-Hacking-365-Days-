@@ -8,7 +8,7 @@ Index | Section
 
   * [My Writeup- Cybersecurity Learning Path](https://medium.com/bugbountywriteup/cybersecurity-learning-path-19f64f6a547e)
 
-  * [Cybersecurity Roadmap-By Traw (https://twitter.com/xtremepentest))](https://github.com/0xTRAW/Cybersecurity-Roadmap)
+  * [Cybersecurity Roadmap-By Traw](https://github.com/0xTRAW/Cybersecurity-Roadmap)
 
   * [Read Ghost in the Wires - My Adventures as the World's Most Wanted Hacker by Kevin Mitnick - Book](https://www.amazon.in/Ghost-Wires-Kevin-Mitnick/dp/0316212180/)
 ___
