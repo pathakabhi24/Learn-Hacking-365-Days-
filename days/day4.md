@@ -8,7 +8,7 @@ Index | Section
 
   * [Learn Python [9:41 Hr - 2:27:21 Hr]](https://www.youtube.com/watch?v=7utwZYKweho&ab_channel=TheCyberMentor)
 
-  * [Learn Javascript [01:11:22 Hr - 02:04:21 Hr]](https://www.youtube.com/watch?v=lI1ae4REbFM&ab_channel=CleverProgrammer))
+  * [Learn Javascript [01:11:22 Hr - 02:04:21 Hr]](https://www.youtube.com/watch?v=lI1ae4REbFM&ab_channel=CleverProgrammer)
 
 ___
 #### Why Programming Languages
