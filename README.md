@@ -15,3 +15,4 @@ Day  | Topic
 **2** | [<ul><li>My Writeup- Cybersecurity Learning Path </li><li> Cybersecurity Roadmap-By Traw </li><li> Read Ghost in the Wires - My Adventures as the World's Most Wanted Hacker by Kevin Mitnick - Book</li></ul>](/days/day2.md)
 **3** | [<ul><li>Handbook- Cybersecurity Handbook </li><li> Hacking Terminologies </li></ul>](/days/day3.md)
 **4** | [<ul><li>Learn Python </li><li> Learn Javascript</li></ul>](/days/day4.md)
+**5** | [<ul><li>Cybersecurity Mindmap </li><li> Learn Javascript </li><li>  JavaScript for Hackers - Video </li></ul>](/days/day5.md)
