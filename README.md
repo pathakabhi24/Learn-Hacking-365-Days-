@@ -16,3 +16,4 @@ Day  | Topic
 **3** | [<ul><li>Handbook- Cybersecurity Handbook </li><li> Hacking Terminologies </li></ul>](/days/day3.md)
 **4** | [<ul><li>Learn Python </li><li> Learn Javascript</li></ul>](/days/day4.md)
 **5** | [<ul><li>Cybersecurity Mindmap </li><li> Learn Javascript </li><li>  JavaScript for Hackers - Video </li></ul>](/days/day5.md)
+**6** | [<ul><li>Writeup - Shell Scripting </li><li> Learn Shell Scripting </li></ul>](/days/day6.md)
