@@ -17,4 +17,4 @@ Day  | Topic
 **4** | [<ul><li>Learn Python </li><li> Learn Javascript</li></ul>](/days/day4.md)
 **5** | [<ul><li>Cybersecurity Mindmap </li><li> Learn Javascript </li><li>  JavaScript for Hackers - Video </li></ul>](/days/day5.md)
 **6** | [<ul><li>Writeup - Shell Scripting </li><li> Learn Shell Scripting </li></ul>](/days/day6.md)
-**7** | [<ul><li>Social Engineering- The art of hacking humans </li><li> Art of Hacking | Rahul Sasi</li></ul>](/days/day7.md)
+**7** | [<ul><li> Social Engineering- The art of hacking humans </li><li> Art of Hacking | Rahul Sasi</li></ul>](/days/day7.md)
