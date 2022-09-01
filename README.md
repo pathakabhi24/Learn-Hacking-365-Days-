@@ -18,4 +18,4 @@ Day  | Topic
 **5** | [<ul><li>Cybersecurity Mindmap </li><li> Learn Javascript </li><li>  JavaScript for Hackers - Video </li></ul>](/days/day5.md)
 **6** | [<ul><li>Writeup - Shell Scripting </li><li> Learn Shell Scripting </li></ul>](/days/day6.md)
 **7** | [<ul><li>Social Engineering (The Art of Human Attack) </li><li> Art of Hacking (Rahul Sasi)</li></ul>](/days/day7.md)
-
+**8** | [<ul><li>Ethical Hacking Mindmap </li><li> My Writeup- Extension used by Hackers </li><li>  Learn Javascript </li></ul>](/days/day8.md)
