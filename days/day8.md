@@ -6,7 +6,7 @@ Index | Section
 
 #### Learning Resource:
 
-  * [Cybersecurity Mindmap ](/Mindmaps/Ethical Hacking Mindmap.pdf)
+  * [Cybersecurity Mindmap ](https://drive.google.com/file/d/1qkakrnCZFR-GBEZldIYk011QWAR6RFNa/view?usp=sharing)
 
   * [My Writeup- Extensions Used by Hackers](https://medium.com/@iabhipathak/extensions-used-by-hackers-bfdcfa793af2)
 
