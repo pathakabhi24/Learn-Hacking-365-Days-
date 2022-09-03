@@ -21,3 +21,4 @@ Day  | Topic
 **7** | [<ul><li>Social Engineering (The Art of Human Attack) </li><li> Art of Hacking (Rahul Sasi)</li></ul>](/days/day7.md)
 **8** | [<ul><li>Ethical Hacking Mindmap </li><li> My Writeup- Extension used by Hackers </li><li>  Learn Javascript </li></ul>](/days/day8.md)
 **9** | [<ul><li>Writeup- Cyber Security BlueTeam </li><li> Writeup- Footprinting and Reconnaissance </li><li>  5 Useful GitHub Repositories #Shorts </li><li>  3 resources to stay updated with hacking #Shorts </li></ul>](/days/day9.md)
+**10** | [<ul><li>Learn Ethical Hacking </li></ul>](/days/day10.md)
