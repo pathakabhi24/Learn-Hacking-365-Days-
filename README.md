@@ -23,3 +23,4 @@ Day  | Topic
 **9** | [<ul><li>Writeup- Cyber Security BlueTeam </li><li> Writeup- Footprinting and Reconnaissance </li><li>  5 Useful GitHub Repositories #Shorts </li><li>  3 resources to stay updated with hacking #Shorts </li></ul>](/days/day9.md)
 **10** | [<ul><li>Learn Ethical Hacking </li></ul>](/days/day10.md)
 **11** | [<ul><li>Linux Learning </li><li>  Linux OS Learning -Video  </li><li> Writeups- Linux based </li><li> Follow peoples in Linux Community </li></ul>](/days/day11.md)
+**12** | [<ul><li>Kali Linux Learning </li><li> Kali Linux for Ethical Hackers  </li><li> Playlist Video- Kali Linux for Hackers </li><li> Book - Kali Linux Revealed - Mastering the Penetration Testing Distribution </li></ul>](/days/day11.md)
