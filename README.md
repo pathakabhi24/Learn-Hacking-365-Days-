@@ -25,3 +25,4 @@ Day  | Topic
 **11** | [<ul><li>Linux Learning </li><li>  Linux OS Learning -Video  </li><li> Writeups- Linux based </li><li> Follow peoples in Linux Community </li></ul>](/days/day11.md)
 **12** | [<ul><li>Kali Linux Learning </li><li> Kali Linux for Ethical Hackers  </li><li> Playlist Video- Kali Linux for Hackers </li><li> Book - Kali Linux Revealed - Mastering the Penetration Testing Distribution </li></ul>](/days/day12.md)
 **13** | [<ul><li>Parrot OS Linux for Ethical Hackers </li><li> Black Arch Linux for Ethical Hackers  </li><li> Parrot OS Security - Course </li><li> Detailed Video - BlackArch Linux </li></ul>](/days/day13.md)
+**14** | [<ul><li>Cybersecurity Intro Lab </li><li> Labs on Linux Fundamentals  </li><li> Labs on Windows Fundamentals </li></ul>](/days/day14.md)
