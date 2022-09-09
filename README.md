@@ -8,6 +8,7 @@ S.NO | Mind Map
 --- | ---
 **1** |  [Cybersecurity Mindmap](https://www.xmind.app/m/NaWE36/#)
 **2** |  [Ethical Hacking Mindmap](https://drive.google.com/file/d/1qkakrnCZFR-GBEZldIYk011QWAR6RFNa/view?usp=sharing)
+**3** |  [Network Security Mindmap](https://www.xmind.net/m/m78Srf)
 
 -------
 Day  | Topic
