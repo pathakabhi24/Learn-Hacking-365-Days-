@@ -29,3 +29,4 @@ Day  | Topic
 **14** | [<ul><li>Cybersecurity Intro Lab </li><li> Labs on Linux Fundamentals  </li><li> Labs on Windows Fundamentals </li></ul>](/days/day14.md)
 **15** | [<ul><li>Network Security Tutorial </li><li> Playlist Video on Network Security  </li><li> Writeups on Network Security </li><li> Books on Network Security </li></ul>](/days/day15.md)
 **16** | [<ul><li>Network Security Mindmap </li><li> Lab on Network Fundamentals - TryHackMe </li><li>  Lab on Network Fundamentals - HacktheBox </li></ul>](/days/day16.md)
+**17** | [<ul><li>Network Security Workshop </li><li> Security Zines on Network Attacks </li><li>  Zines on Computer Networking </li></ul>](/days/day17.md)
