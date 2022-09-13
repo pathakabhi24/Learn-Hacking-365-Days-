@@ -32,3 +32,4 @@ Day  | Topic
 **17** | [<ul><li>Network Security Workshop </li><li> Security Zines on Network Attacks </li><li>  Zines on Computer Networking </li></ul>](/days/day17.md)
 **18** | [<ul><li>Videos - Cloud Security </li><li> Writeup - Cloud Security </li><li>  More Dedicated Writeups on Cloud Security </li></ul>](/days/day18.md)
 **19** | [<ul><li>Videos - AWS Cloud Security </li><li> Writeups - AWS Cloud Security </li></ul>](/days/day19.md)
+**20** | [<ul><li>Videos - Azure Cloud Security </li><li> Writeups - Azure Cloud Security </li></ul>](/days/day19.md)
