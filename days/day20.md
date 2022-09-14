@@ -3,7 +3,7 @@ Index | Section
 **1** | Learning Resource
 **(i)** | Videos to Learn
 **(ii)** | Writeup to Learn
-**(iii)** | More writeups on Dedicated Topic
+
 
 
 
