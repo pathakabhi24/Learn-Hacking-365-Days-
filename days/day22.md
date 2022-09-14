@@ -1,34 +1,25 @@
-# GraphQL Part - 3 WrapUp
-
 Index | Section
---- | ---
-**1** | [About the attack](#About-the-attack)
-**2** | [References](#References)
-___
+---   | ---
+**1** | Learning Resource
+**(i)** | Writeups to Learn
 
-### About the attack
-```
-Pentesting GraphQL may look hard if you are not familiar but there is still a lot to explore and exploit once you understand how it works. Today, It's all about continue reading and some good resources.
-```
 
-### References
-- https://security-simplified.com/blog/NDY/graphql-penetration-testing
-- https://www.youtube.com/watch?v=Wb0BO8J7024
-- https://www.pentestpartners.com/security-blog/pwning-wordpress-graphql/
-- https://threatninja.net/tutorial-on-graphql-injection/
-- https://labs.bishopfox.com/tech-blog/design-considerations-for-secure-graphql-apis
-- https://hackerone.com/reports/885539
-- https://hackerone.com/reports/645299
-- https://hackerone.com/reports/419883
-- https://hackerone.com/reports/614355
-- https://hackerone.com/reports/633001
-- https://hackerone.com/reports/489146
-- https://hackerone.com/reports/608656
-- https://hackerone.com/reports/423388
-- https://hackerone.com/reports/707433
-- https://hackerone.com/reports/417170
-- https://hackerone.com/reports/800231
-- https://hackerone.com/reports/924914
-- https://hackerone.com/reports/898528
-- https://hackerone.com/reports/978143
-- https://hackerone.com/reports/715192
+
+
+
+#### Learning Resource:
+
+
+#### Writeups to Learn:
+
+  * [Writeup - Web Application Security: From Vulnerabilities to Monitoring](https://medium.com/swlh/web-application-security-from-vulnerabilities-to-monitoring-7a3c2dfbfa23)
+  * [Writeup - Web Application Security Basics 101: where to start](https://medium.com/nerd-for-tech/devsecops-basics-where-to-start-aa7babee4ac4)
+  * [Writeup - Beginners Guide to Web Application Security](https://medium.com/@brianrusseldavis/beginners-guide-to-web-application-security-fa4b4e832568)
+  * [Writeup - Web Application Security Basics](https://mtrdesign.medium.com/web-application-security-basics-9b7553f51e8a)
+
+
+#### Topics to understand Web Application:
+
+  * [Cyber Security Web Applications](https://www.w3schools.com/cybersecurity/cybersecurity_web_applications.php)
+  * [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
+  * [Web Security Cheatsheet](https://infosec.mozilla.org/guidelines/web_security)
