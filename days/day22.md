@@ -5,8 +5,6 @@ Index | Section
 
 
 
-
-
 #### Learning Resource:
 
 
