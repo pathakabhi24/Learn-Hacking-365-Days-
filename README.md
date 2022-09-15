@@ -34,3 +34,5 @@ Day  | Topic
 **19** | [<ul><li>Videos - AWS Cloud Security </li><li> Writeups - AWS Cloud Security </li></ul>](/days/day19.md)
 **20** | [<ul><li>Videos - Azure Cloud Security </li><li> Writeups - Azure Cloud Security </li></ul>](/days/day20.md)
 **21** | [<ul><li>Videos - Web Application Security </li></ul>](/days/day21.md)
+**22** | [<ul><li>Writeups- Web Application Security </li></ul>](/days/day22.md)
+
