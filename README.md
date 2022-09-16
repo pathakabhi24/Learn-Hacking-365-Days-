@@ -35,4 +35,5 @@ Day  | Topic
 **20** | [<ul><li>Videos - Azure Cloud Security </li><li> Writeups - Azure Cloud Security </li></ul>](/days/day20.md)
 **21** | [<ul><li>Videos - Web Application Security </li></ul>](/days/day21.md)
 **22** | [<ul><li>Writeups- Web Application Security </li></ul>](/days/day22.md)
+**23** | [<ul><li>How Web Works Mindmap </li><li> Topics to understand Web Application Security </li></ul>](/days/day23.md)
 
