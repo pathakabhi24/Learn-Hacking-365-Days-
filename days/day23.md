@@ -7,7 +7,7 @@ Index | Section
 
 #### Learning Resource:
 
- * [Ethical Hacking Mindmap ](https://drive.google.com/file/d/1za7uHOte5vi2wvw3DT7w8bBrVcPpBmbf/view?usp=sharing)
+ * [How Web Works Mindmap ](https://drive.google.com/file/d/1za7uHOte5vi2wvw3DT7w8bBrVcPpBmbf/view?usp=sharing)
 
 #### Topics to understand Web Application:
 
