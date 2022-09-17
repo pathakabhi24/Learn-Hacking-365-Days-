@@ -9,6 +9,9 @@ S.NO | Mind Map
 **1** |  [Cybersecurity Mindmap](https://www.xmind.app/m/NaWE36/#)
 **2** |  [Ethical Hacking Mindmap](https://drive.google.com/file/d/1qkakrnCZFR-GBEZldIYk011QWAR6RFNa/view?usp=sharing)
 **3** |  [Network Security Mindmap](https://www.xmind.net/m/m78Srf)
+**4** |  [How Web Wokrs Mindmap](https://drive.google.com/file/d/1za7uHOte5vi2wvw3DT7w8bBrVcPpBmbf/view?usp=sharing))
+**5** |  [OWASP Top 10 Mindmap](https://xmind.app/m/qrpuLQ/)
+
 
 -------
 Day  | Topic
