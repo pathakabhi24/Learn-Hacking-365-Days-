@@ -15,9 +15,3 @@ Index | Section
   * [Writeup - Beginners Guide to Web Application Security](https://medium.com/@brianrusseldavis/beginners-guide-to-web-application-security-fa4b4e832568)
   * [Writeup - Web Application Security Basics](https://mtrdesign.medium.com/web-application-security-basics-9b7553f51e8a)
 
-
-#### Topics to understand Web Application:
-
-  * [Cyber Security Web Applications](https://www.w3schools.com/cybersecurity/cybersecurity_web_applications.php)
-  * [Web technology for developers](https://developer.mozilla.org/en-US/docs/Web)
-  * [Web Security Cheatsheet](https://infosec.mozilla.org/guidelines/web_security)
