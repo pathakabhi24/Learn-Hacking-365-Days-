@@ -40,5 +40,6 @@ Day  | Topic
 **22** | [<ul><li>Writeups- Web Application Security </li></ul>](/days/day22.md)
 **23** | [<ul><li>How Web Works Mindmap </li><li> Topics to understand Web Application Security </li></ul>](/days/day23.md)
 **24** | [<ul><li>OWASP Top 10 Mindmap </li><li> Videos - OWASP Top 10 Security Risks </li></ul>](/days/day24.md)
+**25** | [<ul><li>Writeups- OWASP Top 10 Security Risks </li></ul>](/days/day25.md)
 
 
