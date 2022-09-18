@@ -10,6 +10,7 @@ Index | Section
 #### Learning Resource:
 
 
+
 #### Writeups to Learn:
 
   * [Writeup - Web Security Risks](https://medium.com/swlh/web-security-risks-a0b999c3c26e)
