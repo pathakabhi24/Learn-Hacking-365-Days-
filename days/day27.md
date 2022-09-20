@@ -1,13 +1,25 @@
-# Salesforce Configuration Review (Wrap)
-
 Index | Section
---- | ---
-**1** | [References](#References)
-___
+---   | ---
+**1** | Learning Resource
+**(i)** | Learning OWASP Top 10 through Examples
+**(ii)** | Learning Severeal Vulnerabilities through Examples
+**(iii)** | Playlist to know about Severeal Vulnerabilties
 
-### References
-- https://help.salesforce.com/articleView?id=overview_security.htm&type=5
-- https://www.mcafee.com/blogs/enterprise/cloud-security/17-must-enable-salesforce-security-capabilities-and-other-best-practices/
-- https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/salesforce_security_guide.htm
-- https://blog.bessereau.eu/assets/pdfs/salesforce_security_impl_guide.pdf
-- https://developer.salesforce.com/docs/atlas.en-us.securityImplGuide.meta/securityImplGuide/security_overview_auditing.htm
+
+
+#### Learning Resource:
+
+
+#### Learning OWASP Top 10 through Examples:
+
+  * [Topic - OWASP Top 10](https://www.hacksplaining.com/owasp)
+
+
+#### Learning Severeal Vulnerabilities through Examples:
+
+  * [Topic - Severeal Vulnerabilities to know](https://www.hacksplaining.com/lessons)
+
+
+#### Playlist to know about Severeal Vulnerabilties:
+
+  * [Playlist Videos - Severeal Vulnerabilites to know](https://www.youtube.com/c/RanaKhalil101/playlists)
