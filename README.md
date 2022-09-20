@@ -42,5 +42,6 @@ Day  | Topic
 **24** | [<ul><li>OWASP Top 10 Mindmap </li><li> Videos - OWASP Top 10 Security Risks </li></ul>](/days/day24.md)
 **25** | [<ul><li>Writeups- OWASP Top 10 Security Risks </li></ul>](/days/day25.md)
 **26** | [<ul><li>Topics to understand OWASP Top 10 Security Risks </li></ul>](/days/day26.md)
+**27** | [<ul><li>Learning OWASP Top 10 through Examples </li><li> Learning Several Vulnerabilties through Examples </li><li>  Playlist to know about Several Vulnerabilities </li></ul>](/days/day27.md)
 
 
