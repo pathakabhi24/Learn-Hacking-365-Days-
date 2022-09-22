@@ -44,4 +44,5 @@ Day  | Topic
 **26** | [<ul><li>Topics to understand OWASP Top 10 Security Risks </li></ul>](/days/day26.md)
 **27** | [<ul><li>Learning OWASP Top 10 through Examples </li><li> Learning Several Vulnerabilties through Examples </li><li>  Playlist to know about Several Vulnerabilities </li></ul>](/days/day27.md)
 **28** | [<ul><li>Learning Resource of SQL Injection </li><li> Videos - SQL Injection Tutorials </li></ul>](/days/day28.md)
+**29** | [<ul><li>Medium Writeups- SQL Injection </li></ul>](/days/day29.md)
 
