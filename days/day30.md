@@ -10,11 +10,6 @@ Index | Section
 #### Learning Resource:
 
 
-
-
-
-
-
 #### More Writeups to Learn SQL Injection:
 
   * [Writeup - SQL Injection](https://www.w3schools.com/sql/sql_injection.asp)
