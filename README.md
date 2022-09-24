@@ -46,4 +46,5 @@ Day  | Topic
 **28** | [<ul><li>Learning Resource of SQL Injection </li><li> Videos - SQL Injection Tutorials </li></ul>](/days/day28.md)
 **29** | [<ul><li>Medium Writeups- SQL Injection </li></ul>](/days/day29.md)
 **30** | [<ul><li>More Writeups on SQL Injection </li></ul>](/days/day30.md)
+**31** | [<ul><li>Learning Resource of Cross Site Scripting (XSS) </li><li> Videos - Cross Site Scripting (XSS) </li></ul>](/days/day31.md)
 
