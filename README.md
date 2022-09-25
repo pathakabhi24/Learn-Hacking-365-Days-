@@ -47,6 +47,6 @@ Day  | Topic
 **29** | [<ul><li>Medium Writeups- SQL Injection </li></ul>](/days/day29.md)
 **30** | [<ul><li>More Writeups on SQL Injection </li></ul>](/days/day30.md)
 **31** | [<ul><li>Learning Resource of Cross Site Scripting (XSS) </li><li> Videos - Cross Site Scripting (XSS) </li></ul>](/days/day31.md)
-**32** | [<ul><li>Writeups Resoruces on Cross Site Scripting (XSS) </li><li> Medium Writeups - Cross Site Scripting (XSS) </li></ul>](/days/day32.md)
+**32** | [<ul><li>Writeups Resources on Cross Site Scripting (XSS) </li><li> Medium Writeups - Cross Site Scripting (XSS) </li></ul>](/days/day32.md)
 
 
