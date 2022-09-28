@@ -50,5 +50,7 @@ Day  | Topic
 **32** | [<ul><li>Writeups Resources on Cross Site Scripting (XSS) </li><li> Medium Writeups - Cross Site Scripting (XSS) </li></ul>](/days/day32.md)
 **33** | [<ul><li>More Writeups on Cross Site Scripting </li></ul>](/days/day33.md)
 **34** | [<ul><li>Learning Resource of Broken Access Control </li><li> Videos - Broken Access Control Tutorials </li></ul>](/days/day34.md)
+**35** | [<ul><li>Writeups Resources on Broken Access Control </li><li> Medium Writeups - Broken Access Control </li></ul>](/days/day35.md)
+
 
 
