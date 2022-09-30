@@ -52,6 +52,8 @@ Day  | Topic
 **34** | [<ul><li>Learning Resource of Broken Access Control </li><li> Videos - Broken Access Control Tutorials </li></ul>](/days/day34.md)
 **35** | [<ul><li>Writeups Resources on Broken Access Control </li><li> Medium Writeups - Broken Access Control </li></ul>](/days/day35.md)
 **36** | [<ul><li>More Writeups on Broken Access Control </li></ul>](/days/day36.md)
+**37** | [<ul><li>Learning Resource of Cross Site Request Forgery (CSRF) </li><li> Videos - Cross Site Request Forgery (CSRF) Tutorials </li></ul>](/days/day37.md)
+
 
 
 
