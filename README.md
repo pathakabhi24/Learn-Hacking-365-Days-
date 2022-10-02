@@ -54,6 +54,7 @@ Day  | Topic
 **36** | [<ul><li>More Writeups on Broken Access Control </li></ul>](/days/day36.md)
 **37** | [<ul><li>Learning Resource of Cross Site Request Forgery (CSRF) </li><li> Videos - Cross Site Request Forgery (CSRF) Tutorials </li></ul>](/days/day37.md)
 **38** | [<ul><li>Writeups Resources on Cross Site Request Forgery </li><li> Medium Writeups - Cross Site Request Forgery </li></ul>](/days/day38.md)
+**39** | [<ul><li>Security Zines on CSRF </li><li> More Writeups - Cross Site Request Forgery </li></ul>](/days/day39.md)
 
 
 
