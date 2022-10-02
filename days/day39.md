@@ -1,50 +1,26 @@
-#  OpenID Connect Implementation Issues
 Index | Section
---- | ---
-**1** | Introduction
-**2** | Attack Vectors
-**3** | Side Notes
-
-___
+---   | ---
+**1** | Learning Resource
+**(i)** | More Writeups to Learn Cross Site Request Forgery
 
 
-#### Introduction
-```
-1. OIDC (Open ID Connect) is an authentication layer on top of OAuth 2.0, an authorization framework. The standard is controlled by the OpenID Foundation. 
-2. More Information: https://openid.net/connect/
-3. Today's learning is referenced from: https://security.lauritz-holtmann.de/post/sso-security-overview/
-
-```
-
-#### Attack Vectors
-```
-1. Login Confusion Attack
-
-- Detailed Read: https://security.lauritz-holtmann.de/post/sso-security-login-confusion/
-
-2. Injection of CRLF Sequences
-
-- Detailed Read: https://security.lauritz-holtmann.de/post/sso-security-crlf-injection/
-
-3. Server-Side Request Forgery
-
-- Detailed Read: https://security.lauritz-holtmann.de/post/sso-security-ssrf/
-
-4. Redirect URI Schemes
-
-- Detailed Read: https://security.lauritz-holtmann.de/post/sso-security-redirect-uri/
 
 
-5. Reusable State Parameter
 
-- Detailed Read: https://security.lauritz-holtmann.de/post/sso-security-state/
+#### Learning Resource:
 
-```
+  * [Security Zines on CSRF](https://securityzines.com/zines/csrf.html)
 
-#### Side Notes
 
-```
-a. This is a really nice article and fun read to understand about the implementation and issues. Kudos to the researcher.
-b. Original Tweet: https://twitter.com/_lauritz_/status/1322242562216890369
+#### More Writeups to Learn Cross Site Request Forgery:
 
-```
+  * [Writeup - Cross Site Request Forgery (CSRF)](https://owasp.org/www-community/attacks/csrf)
+  * [Writeup - What is CSRF?](https://portswigger.net/web-security/csrf)
+  * [Writeup - Cross site request forgery (CSRF) attack](https://www.imperva.com/learn/application-security/csrf-cross-site-request-forgery/)
+  * [Writeup - How does Cross-Site Request Forgery work?](https://www.synopsys.com/glossary/what-is-csrf.html)
+  * [Writeup - What is cross-site request forgery?](https://www.cloudflare.com/learning/security/threats/cross-site-request-forgery/)
+  * [Writeup - What Is CSRF & How to Prevent It](https://crashtest-security.com/cross-site-request-forgery-csrf/)
+  * [Writeup - Complete Guide to CSRF](https://reflectoring.io/complete-guide-to-csrf/)
+  * [Writeup - What Is CSRF (Cross-Site Request Forgery)?](https://www.wallarm.com/what/what-is-cross-site-request-forgery)
+
+
