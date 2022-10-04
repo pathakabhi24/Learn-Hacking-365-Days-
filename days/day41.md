@@ -1,22 +1,24 @@
-#  Cobalt Vulnerability Wiki
 Index | Section
---- | ---
-**1** | Introduction
-**2** | Cobalt Vulnerability Wiki
-
-___
+---   | ---
+**1** | Learning Resource
+**(i)** | Medium Writeups to Learn Server Side Request Forgery (SSRF)
 
 
-#### Introduction
-```
-- As part of Today's #Learn365, I checked out the latest Vulnerability Wiki Published by Cobalt.io's Pentest Architect, Busra D. (areyou1or0). 
 
-- This Wiki is a unique database with vulnerability Proof of Concepts to act as a resource for pentesters. The findings are categorized by OWASP ASVS category.
 
-- This Wiki has a nice collection of Proof of Concept and helps you to understand some interesting stuff along with some pre-defined impact scenarios which will allow you to rate your submissions in a better way.
 
-- There are tons of vulnerabilities currently and I hope the list will updated in future as well being a goldmine to learn something new.
+#### Learning Resource:
 
-```
+  * [All Medium Writeups on Server Side Request Forgery (SSRF)](https://infosecwriteups.com/tagged/ssrf)
 
-#### Cobalt Vulnerability Wiki: https://cobalt.io/vulnerability-wiki
+
+#### Medium Writeups to Learn Server Side Request Forgery (SSRF): 
+
+  * [Medium Writeup - SSRF-Server Side Request Forgery](https://medium.com/@briskinfosec/ssrf-server-side-request-forgery-ae44ec737cb8)
+  * [Medium Writeup - Server Side Request Forgery](https://medium.com/cybersecurityservices/server-side-request-forgery-aashna-jain-bcc42aea0479)
+  * [Medium Writeup - A Complete Guide To Server-Side Request Forgery (SSRF)](https://medium.com/purplebox/a-complete-guide-to-server-side-request-forgery-ssrf-58b1dbdd064e)
+  * [Medium Writeup - SSRF - Server Side Request Forgery (Types and ways to exploit it) Part-1](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
+  * [Medium Writeup - SSRF - Server Side Request Forgery (Types and ways to exploit it) Part-2](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2-a085ec4332c0)
+  * [Medium Writeup - SSRF - Server Side Request Forgery (Types and ways to exploit it) Part-3](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739)
+  * [Medium Writeup - SSRF(Server Side Request Forgery)](https://54m4ri74n.medium.com/ssrf-server-side-request-forgery-5131ffd61c3c)
+
