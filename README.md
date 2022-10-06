@@ -58,6 +58,8 @@ Day  | Topic
 **40** | [<ul><li>Learning Resource of Server Side Request Forgery </li><li> Videos - Server Side Request Forgery Tutorials </li></ul>](/days/day40.md)
 **41** | [<ul><li>Writeups Resources on Server Side Request Forgery </li><li> Medium Writeups - Server Side Request Forgery </li></ul>](/days/day41.md)
 **42** | [<ul><li>More Writeups - Server Side Request Forgery </li></ul>](/days/day42.md)
+**43** | [<ul><li>Videos - Insecure Direct Object Reference (IDOR)  </li></ul>](/days/day43.md)
+
 
 
 
