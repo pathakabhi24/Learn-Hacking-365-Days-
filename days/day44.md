@@ -1,87 +1,26 @@
-# Pentesting BACNet
 Index | Section
---- | ---
-**1** | Introduction
-**2** | Attack Vectors
-**3** | Enumeration
-**4** | References & Good Reads
-
-___
+---   | ---
+**1** | Learning Resource
+**(i)** | Medium Writeups to Learn Insecure Direct Object Reference (IDOR)
 
 
-#### Introduction
-```
-1. BACNet : Building Automation & Control Networks
-2. BACNet is used in the communication system for building automation.
-3. BACnet acts as a standard communication protocol enabling interoperability between building devices and systems — controls and automation systems.
-4. BACnet presents standard methods for requesting, interpreting, transporting and presenting information between systems from various vendors such as lighting, HVAC, fire systems and security. 
-5. In order to achieve interoperability across the wide range of equipment, BACnet specifies three major parts. They are as follows:
-
-    a. The first part specifies different methods for representing building automation equipment in a standard way.
-    b. The second part specifies messages which can be sent across to control and monitor different equipment in the network.
-    c. The third part specifies a set of applicable LANs (Local Area Network) which can be used for conveying BACnet communications
-```
-
-#### How to Test
-```
-1. Lack of Encryption
-
-- Traffic is not encrypted by default and due to this the data travels in plain text. 
-- It can be stolen by the MiTM Attack attempts.
-
-2. Denial of Service
-
-- It is possible to flood the BACNet network in order to perform a denial of service attack.
-
-3. Disable Network Connections 
-
-- This attack is performed by corrupting the routing table in the compromised device. 
-- This is done by sharing faulty routing information. 
-- Also, a device can be denied network connection by sending false messages to it
-
-4. Wirte Access on the Devices.
-
-- This attack changes the current values of BACnet object property. 
-- Thus, it is possible to change the values of the object, creating undesired changes in the network.
-
-5. Lack of Authentication
-
-- BACnet is susceptible to spoofing attacks due to a lack of authentication and authorization. 
-- Due to this, devices can generate fake messages and can force other devices to send their messages
 
 
-```
 
-#### Enumeration 
 
-```
-1. Default Port
-- 47808
+#### Learning Resource:
 
-2. Enumeration through NMAP
-- nmap --script bacnet-info --script-args full=yes -sU -n -sV -p 47808 <IP>
+  * [All Medium Writeups on Insecure Direct Object Reference (IDOR)](https://infosecwriteups.com/tagged/idor)
+  * [All Medium Writeups on Insecure Direct Object Reference (IDOR)](https://medium.com/tag/idor)
 
-3. Manual Enumeration 
 
-    pip3 install BAC0
-    import BAC0
-    bbmdIP = '<IP>:47808'
-    bbmdTTL = 900
-    bacnet = BAC0.connect(bbmdAddress=bbmdIP, bbmdTTL=bbmdTTL) #Connect
-    bacnet.vendorName.strValue
 
-4. Shodan Dorks
-- port:47808 instance
-- "Instance ID" "Vendor Name"
+#### Medium Writeups to Learn Insecure Direct Object Reference (IDOR): 
 
-```
+  * [Medium Writeup - A Bug Bounty Hunter’s Guide to IDOR Vulnerabilities](https://medium.com/techiepedia/an-bug-bounty-hunters-guide-to-idor-vulnerabilities-27012bbccd7)
+  * [Medium Writeup - IDOR: A BEGINNER’S GUIDE](https://infosecwriteups.com/idor-a-beginners-guide-bd5f9bf893fe)
+  * [Medium Writeup - The Art of IDOR: 7 IDORs in Edm0d0](https://medium.com/@pratyush1337/the-art-of-idor-7-idors-in-edm0d0-b86d683c8de9)
+  * [Medium Writeup - API based IDOR to leaking Private IP address of 6000 businesses](https://rafi-ahamed.medium.com/api-based-idor-to-leaking-private-ip-address-of-6000-businesses-6bc085ac6a6f)
+  * [Medium Writeup - Sensitive data leak using IDOR in integration service](https://ronak-9889.medium.com/sensitive-data-leak-using-idor-in-integration-service-d9301be9c91e)
+  * [Medium Writeup - Chaining password reset link poisoning, IDOR, and information leakage to achieve account takeover at api.redacted.com](https://infosecwriteups.com/chaining-password-reset-link-poisoning-idor-account-information-leakage-to-achieve-account-bb5e0e400745)
 
-#### References & Good Reads
-
-```
-a. https://resources.infosecinstitute.com/topic/bacnet/
-b. https://sapsan.on.fleek.co/hacktricks/pentesting/47808-udp-bacnet/
-c. https://hitcon.org/2015/ENT/PDF/Building%20Automation%20and%20Control_miaoski.pdf
-d. https://www.blackhat.com/docs/us-17/wednesday/us-17-Brandstetter-insecurity-In-Building-Automation-How-To-Create-Dark-Buildings-With-Light-Speed.pdf
-
-```
