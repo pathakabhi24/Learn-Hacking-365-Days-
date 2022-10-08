@@ -60,6 +60,8 @@ Day  | Topic
 **42** | [<ul><li>More Writeups - Server Side Request Forgery </li></ul>](/days/day42.md)
 **43** | [<ul><li>Videos - Insecure Direct Object Reference (IDOR)  </li></ul>](/days/day43.md)
 **44** | [<ul><li>Writeups Resources on Insecure Direct Object Reference </li><li> Medium Writeups - Insecure Direct Object Reference (IDOR) </li></ul>](/days/day44.md)
+**45** | [<ul><li>Security Zines on IDOR </li><li> More Writeups - Insecure Direct Object References (IDOR) </li></ul>](/days/day45.md)
+
 
 
 
