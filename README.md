@@ -63,6 +63,8 @@ Day  | Topic
 **45** | [<ul><li>Security Zines on IDOR </li><li> More Writeups - Insecure Direct Object References (IDOR) </li></ul>](/days/day45.md)
 **46** | [<ul><li>Videos - Cross-Origin Resource Sharing (CORS) </li></ul>](/days/day46.md)
 **47** | [<ul><li>Medium Writeups - Cross-Origin Resource Sharing (CORS) </li></ul>](/days/day47.md)
+**48** | [<ul><li>Security Zines on CORS </li><li> More Writeups - Cross-origin resource sharing (CORS) </li></ul>](/days/day48.md)
+
 
 
 
