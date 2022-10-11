@@ -1,39 +1,26 @@
-# Incomplete Trailing Escape Pattern Issue
 Index | Section
---- | ---
-**1** | Introduction
-**2** | How to Test
-**3** | References & Good Reads
-
-___
+---   | ---
+**1** | Learning Resource
+**(i)** | More Writeups to Learn Cross-origin resource sharing (CORS)
 
 
-#### Introduction
-```
-- Missing Input Validation is the root cause for tons of security vulnerability.
-- Recently, I have encountered an interesting scenario where due to missing sanitization in Incomplete Trailing Escape Patterns, I was able to perform a simple Availability (DoS like) impact on the application. 
-- There are many escape sequence, the one I encountered was `%` where due to missing sequence after %, I was able to confuse the library parsing the result into throwing error leading to the availability impact. 
-
-```
-
-#### How to Test
-```
-1. Let's assume the application has a "First Name" option which is stored in the backend to some DB.
-2. Now, I injected some incomplete sequences such as !@#$%^ into the first name field and application successfully saved this input.
-3. Assume there's an API which specifically allows to fetch first name for all the users.
-4. Now, due to the Incomplete Trailing Escape Patterns, the GET API was not able to parse the data properly and throwed Internal Server Error.
-5. Since this was a shared API, all the users were impacted. 
 
 
-This is one of the recently encountered scenario, there may be other impact of this as well. 
+
+#### Learning Resource:
+
+  * [Security Zines on CORS](https://securityzines.com/flyers/cors.html)
 
 
-```
+#### More Writeups to Learn Cross-origin resource sharing (CORS):
+
+  * [Writeup - Cross-origin resource sharing (CORS)](https://portswigger.net/websecurity/cors#:~:text=Vulnerabilities%20arising%20from%20CORS%20configuration,can%20result%20in%20exploitable%20vulnerabilities)
+  * [Writeup -CORS vulnerability](https://hakin9.org/cors-vulnerability/)
+  * [Writeup - CORS (Cross-Origin Resource Sharing) origin validation failure](https://www.acunetix.com/vulnerabilities/web/cors-cross-origin-resource-sharing-origin-validation-failure/)
+  * [Writeup - Understanding Cross-Origin Resource Sharing Vulnerabilities](https://www.tenable.com/blog/understanding-cross-origin-resource-sharing-vulnerabilities)
+  * [Writeup - What are CORS attacks and how can you prevent them?](https://www.comparitech.com/blog/information-security/cors-attacks-prevent/)
+  * [Writeup -Testing Cross Origin Resource Sharing](https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/11-Client-side_Testing/07-Testing_Cross_Origin_Resource_Sharing)
+  * [Writeup - CORS Misconfiguration](https://0xn3va.gitbook.io/cheat-sheets/web-application/cors-misconfiguration)
+  * [Writeup - Cross-Origin Resource Sharing (CORS)](https://www.packetlabs.net/posts/cross-origin-resource-sharing-cors/)
 
 
-#### References & Good Reads 
-
-```
-a. https://www.programmersought.com/article/1312520870/
-
-```
