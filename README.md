@@ -64,6 +64,8 @@ Day  | Topic
 **46** | [<ul><li>Videos - Cross-Origin Resource Sharing (CORS) </li></ul>](/days/day46.md)
 **47** | [<ul><li>Medium Writeups - Cross-Origin Resource Sharing (CORS) </li></ul>](/days/day47.md)
 **48** | [<ul><li>Security Zines on CORS </li><li> More Writeups - Cross-origin resource sharing (CORS) </li></ul>](/days/day48.md)
+**49** | [<ul><li>Video - Basics of Local and Remote File Inclusion </li><li> Videos - Local File Inclusion (LFI) </li><li> Videos - Remote File Inclusion (RFI) </li></ul>](/days/day49.md)
+
 
 
 
