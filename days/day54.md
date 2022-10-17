@@ -1,13 +1,22 @@
-# JSON Deserialization Attacks 
 Index | Section
---- | ---
-
+---   | ---
 **1** | Learning Resource
+**(i)** | Videos to Learn XML External Entities (XXE)
 
-___
+
+#### Learning Resource:
+
+  * [Example Resource](https://www.hacksplaining.com/exercises/xml-external-entities)
 
 
-#### Learning Resource: 
+#### Videos to Learn XML External Entities (XXE):
 
-* BlackHat Talk: https://youtube.com/watch?v=oUAeWhW5b8c&list=PLYn5_MxRvV-fWFXxAxHr2XMQ4GlnsSP4p&index=35&t=12s 
-* Paper: https://blackhat.com/docs/us-17/thursday/us-17-Munoz-Friday-The-13th-JSON-Attacks-wp.pdf
+  * [Video - What is Cross Site Scripting?](https://www.youtube.com/watch?v=gjm6VHZa_8s&ab_channel=PwnFunction)
+  * [Video - Cross-Site Scripting (XSS) Explained](https://www.youtube.com/watch?v=urQZZJ8iDB8&ab_channel=TutorialsPoint%28India%29Ltd)
+  * [Video - XSS - Cross Site Scripting Explained](https://www.youtube.com/watch?v=iGDJ695dUEM&ab_channel=LoiLiangYang)
+  * [Video - Cross-Site Scripting (XSS) Explained And Demonstrated!](https://www.youtube.com/watch?v=9ZokuRHo-eY&ab_channel=Bugcrowd)
+  * [Video - Cross Site Scripting Vulnerability ( XSS )](https://www.youtube.com/watch?v=RNGLCVe7ZUQ&ab_channel=CyberSecurityTV)
+  * [Video - Hacking Websites With Cross-Site Scripting (XSS Attack Basics)](https://www.youtube.com/watch?v=g2ey7ry8_CQ&ab_channel=F5DevCentral)
+  * [Video - Hacking Websites With Cross-Site Scripting (XSS Attack Basics)](https://www.youtube.com/watch?v=emwQxqOnYUo&ab_channel=SecureCodeWarrior)
+  * [Video - Hacking Websites With Cross-Site Scripting (XSS Attack Basics)](https://www.youtube.com/watch?v=JI0daBHq6fA&ab_channel=Override)
+
