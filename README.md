@@ -70,6 +70,8 @@ Day  | Topic
 **52** | [<ul><li>Security Zines on LFI & RFI </li><li> More Writeups - Local File Inclusion (LFI) </li></ul>](/days/day52.md)
 **53** | [<ul><li>More Writeups - Remote File Inclusion (RFI) </li></ul>](/days/day53.md)
 **54** | [<ul><li>Learning Resource of XML External Entities (XXE) </li><li> Videos - XML External Entities (XXE) Tutorials </li></ul>](/days/day54.md)
+**55** | [<ul><li>Writeups Resources on XML External Entities (XXE) (XSS) </li><li> Medium Writeups - XML External Entities (XXE) </li></ul>](/days/day55.md)
+
 
 
 
