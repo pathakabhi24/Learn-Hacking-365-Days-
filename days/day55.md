@@ -21,5 +21,5 @@ Index | Section
   * [Medium Writeup - Understanding XXE Vulnerabilities](https://scottc130.medium.com/understanding-xxe-vulnerabilities-7e389d3972c2)
   * [Medium Writeup - XML External Entity (XXE) Injection Payload List](https://ismailtasdelen.medium.com/xml-external-entity-xxe-injection-payload-list-937d33e5e116)
   * [Medium Writeup - What is XXE Vulnerability and How is it Exploited?](https://serhanwbahar.medium.com/what-is-xxe-vulnerability-and-how-is-it-exploited-29d09f840d3c)
-  * [Medium Writeup - XXE attack and Secure coding](hhttps://pravinponnusamy.medium.com/xxe-attack-and-secure-coding-287a1bb46889)
+  * [Medium Writeup - XXE attack and Secure coding ](https://pravinponnusamy.medium.com/xxe-attack-and-secure-coding-287a1bb46889)
 
