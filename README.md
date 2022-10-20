@@ -72,6 +72,8 @@ Day  | Topic
 **54** | [<ul><li>Learning Resource of XML External Entities (XXE) </li><li> Videos - XML External Entities (XXE) Tutorials </li></ul>](/days/day54.md)
 **55** | [<ul><li>Writeups Resources on XML External Entities (XXE) </li><li> Medium Writeups - XML External Entities (XXE) </li></ul>](/days/day55.md)
 **56** | [<ul><li>Security Zines on XML External Entities (XXE) </li><li> More Writeups on XML External Entities (XXE) </li></ul>](/days/day56.md)
+**57** | [<ul><li>Learning Resource of Buffer Overflow Vulnerability </li><li> Videos - Buffer Overflow Vulnerability (XXE) </li></ul>](/days/day57.md)
+
 
 
 
