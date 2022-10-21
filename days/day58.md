@@ -1,46 +1,23 @@
-#  JSON Interoperability Vulnerabilities
 Index | Section
---- | ---
-**1** | Introduction
-**2** | Potential Test Cases
-**3** | Labs 
-**4** | References 
-
-___
+---   | ---
+**1** | Learning Resource
+**(i)** | Medium Writeups to Learn Buffer Overflow Vulnerability
 
 
-#### Introduction
-```
-1. Recently BishopFox Labs released a research blog on the JSON Interoperability Vulnerabilities explaining multiple security issues that may exists in the JSON based schemas. 
-2. The same JSON document can be parsed with different values across microservices, leading to a variety of potential security risks.
 
-```
 
-#### Potential Test Cases
-```
-1. Inconsistent Duplicate Key Precedence
+#### Learning Resource:
 
-2. Key Collision: Character truncation and Comments
+  * [All Medium Writeups on Buffer Overflow Vulnerability](https://medium.com/tag/buffer-overflow)
 
-3. JSON Serialization Quirks
 
-4. Float and Integer Representation
+#### Medium Writeups to Learn Buffer Overflow Vulnerability: 
 
-5. Permissive Parsing and Other Bugs
-```
+  * [Medium Writeup - A Beginner’s Guide to Buffer Overflow Vulnerability](https://medium.com/techloop/understanding-buffer-overflow-vulnerability-85ac22ec8cd3)
+  * [Medium Writeup - Understanding Buffer Overflow Vulnerability](https://gupta-bless.medium.com/understanding-buffer-overflow-vulnerability-2a0d0e1eae43)
+  * [Medium Writeup - Week 13: Introduction to Buffer Overflows](https://d0nut.medium.com/week-13-introduction-to-buffer-overflows-5f15c0d5b5c1)
+  * [Medium Writeup - Buffer Overflow Attacks](https://medium.com/nerd-for-tech/buffer-overflow-attacks-b5e62a522e6e)
+  * [Medium Writeup - Learn buffer overflow from scratch](https://medium.com/purple-team/buffer-overflow-c36dd9f2be6f)
+  * [Medium Writeup - How It Works: Buffer Overflow Attack](https://medium.com/@mzainkh/how-it-works-buffer-overflow-attack-4dcae8fa2630)
+  * [Medium Writeup - Buffer Overflow — Vulnserver](https://corruptedprotocol.medium.com/buffer-overflow-vulnserver-4951a4318966)
 
-#### Labs
-
-```
-a. https://github.com/BishopFox/json-interop-vuln-labs
-
-```
-
-#### References 
-
-```
-a. https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities
-
-```
-
-#### Note: This work is carried out by BishopFox Labs & this repository doesn't take any credit for the same. Shoutout to @theBumbleSec for sharing this research work.
