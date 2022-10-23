@@ -75,6 +75,7 @@ Day  | Topic
 **57** | [<ul><li>Learning Resource of Buffer Overflow Vulnerability </li><li> Videos - Buffer Overflow Vulnerability </li></ul>](/days/day57.md)
 **58** | [<ul><li>Writeups Resources on Buffer Overflow Vulnerability </li><li> Medium Writeups - Buffer Overflow Vulnerability </li></ul>](/days/day58.md)
 **59** | [<ul><li>More Writeups on Buffer Overflow Vulnerability </li></ul>](/days/day59.md)
+**60** | [<ul><li>Videos - HTTP Request Smuggling </li></ul>](/days/day60.md)
 
 
 
