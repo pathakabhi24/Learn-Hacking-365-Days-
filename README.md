@@ -76,6 +76,8 @@ Day  | Topic
 **58** | [<ul><li>Writeups Resources on Buffer Overflow Vulnerability </li><li> Medium Writeups - Buffer Overflow Vulnerability </li></ul>](/days/day58.md)
 **59** | [<ul><li>More Writeups on Buffer Overflow Vulnerability </li></ul>](/days/day59.md)
 **60** | [<ul><li>Videos - HTTP Request Smuggling </li></ul>](/days/day60.md)
+**61** | [<ul><li>Medium Writeups - HTTP Request Smuggling </li></ul>](/days/day61.md)
+
 
 
 
