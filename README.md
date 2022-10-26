@@ -78,6 +78,7 @@ Day  | Topic
 **60** | [<ul><li>Videos - HTTP Request Smuggling </li></ul>](/days/day60.md)
 **61** | [<ul><li>Medium Writeups - HTTP Request Smuggling </li></ul>](/days/day61.md)
 **62** | [<ul><li>Security Zines on HTTP Request Smuggling  </li><li> More Writeups on HTTP Request Smuggling  </li></ul>](/days/day62.md)
+**63** | [<ul><li>Videos - Carriage Return and Line Feed (CRLF) Injection </li><li> Videos - Lightweight Directory Access Protocol (LDAP) injection </li></ul>](/days/day63.md)
 
 
 
