@@ -2,7 +2,7 @@ Index | Section
 ---   | ---
 **1** | Learning Resource
 **(i)** | Medium Writeups to Learn Local File Inclusion (LFI)
-**(ii)** | Medium Writeups to Learn Remote File Inclusion (RFI)
+
 
 
 
