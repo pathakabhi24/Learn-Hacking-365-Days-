@@ -15,7 +15,7 @@ Index | Section
   * [Writeup - CRLF Injection Tutorial: Learn About CRLF Injection Vulnerabilities and Prevention](https://www.veracode.com/security/crlf-injection)
   * [Writeup - CRLF Injection](https://www.varutra.com/crlf-carriage-return-line-feed-injection/)
   * [Writeup - CRLF Injection Attack](https://www.wallarm.com/what/crlf-injection-attack)
-  * [Writeup - Local file inclusion vulnerability](https://medium.com/@nyomanpradipta120/local-file-inclusion-vulnerability-cfd9e62d12cb)
+
 
 #### Medium Writeups to Lightweight Directory Access Protocol (LDAP) injection : 
 
