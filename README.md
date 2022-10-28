@@ -81,6 +81,7 @@ Day  | Topic
 **63** | [<ul><li>Videos - Carriage Return and Line Feed (CRLF) Injection </li><li> Videos - Lightweight Directory Access Protocol (LDAP) injection </li></ul>](/days/day63.md)
 **64** | [<ul><li>Writeups to Learn Carriage Return and Line Feed (CRLF) Injection </li><li> Writeups to Learn Lightweight Directory Access Protocol (LDAP) injection
  </li></ul>](/days/day64.md)
+ **65** | [<ul><li>Videos - HTTP Parameter Pollution </li></ul>](/days/day65.md)
 
 
 
