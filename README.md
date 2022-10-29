@@ -79,9 +79,9 @@ Day  | Topic
 **61** | [<ul><li>Medium Writeups - HTTP Request Smuggling </li></ul>](/days/day61.md)
 **62** | [<ul><li>Security Zines on HTTP Request Smuggling  </li><li> More Writeups on HTTP Request Smuggling  </li></ul>](/days/day62.md)
 **63** | [<ul><li>Videos - Carriage Return and Line Feed (CRLF) Injection </li><li> Videos - Lightweight Directory Access Protocol (LDAP) injection </li></ul>](/days/day63.md)
-**64** | [<ul><li>Writeups to Learn Carriage Return and Line Feed (CRLF) Injection </li><li> Writeups to Learn Lightweight Directory Access Protocol (LDAP) injection
- </li></ul>](/days/day64.md)
- **65** | [<ul><li>Videos - HTTP Parameter Pollution </li></ul>](/days/day65.md)
+**64** | [<ul><li>Writeups to Learn Carriage Return and Line Feed Injection </li><li> Writeups to Learn Lightweight Directory Access Protocol Injection </li></ul>](/days/day64.md)
+**65** | [<ul><li>Videos - HTPP Parameter Pollution </li></ul>](/days/day65.md)
+**66** | [<ul><li>Medium Writeups to Learn HTTP Parameter Pollution </li></ul>](/days/day66.md)
 
 
 
