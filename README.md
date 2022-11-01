@@ -84,6 +84,7 @@ Day  | Topic
 **66** | [<ul><li>Medium Writeups to Learn HTTP Parameter Pollution </li></ul>](/days/day66.md)
 **67** | [<ul><li>Security Zines on HTTP Parameter Pollution </li><li> More Writeups on HTTP Parameter Pollution</li></ul>](/days/day67.md)
 **68** | [<ul><li>Learning Resource for Prototype Pollution </li><li> Videos - Prototype Pollution </li></ul>](/days/day68.md)
+**69** | [<ul><li>Medium Writeups to Learn Prototype Pollution </li></ul>](/days/day69.md)
 
 
 
