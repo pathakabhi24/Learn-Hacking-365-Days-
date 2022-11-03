@@ -1,11 +1,15 @@
-# OWASP AMASS - Bootcamp
 Index | Section
---- | ---
-**1** | Learning Resource
+---   | ---
+**1** | Reference & Good Reads
+
 
 ___
 
 
-#### Learning Resource: 
+#### References & Good Reads
 
-* https://www.youtube.com/watch?v=OOurkCPf2-I&t=2s
+```
+  * [A blog to read and get overview about Several Vulnerabilities](https://securityscorecard.com/blog/common-web-application-vulnerabilities-explained)
+  * [Gitbook which gives overview about all Vulnerabilities](https://book.hacktricks.xyz/pentesting-web/web-vulnerabilities-methodology)
+
+```
