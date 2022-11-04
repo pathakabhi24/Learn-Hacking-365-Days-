@@ -87,6 +87,8 @@ Day  | Topic
 **69** | [<ul><li>Medium Writeups to Learn Prototype Pollution </li></ul>](/days/day69.md)
 **70** | [<ul><li>More Writeups to Learn Prototype Pollution </li></ul>](/days/day70.md)
 **71** | [<ul><li>References & Good Reads for Several Vulnerabilities </li></ul>](/days/day71.md)
+**72** | [<ul><li>Videos - API Security </li></ul>](/days/day72.md)
+
 
 
 
