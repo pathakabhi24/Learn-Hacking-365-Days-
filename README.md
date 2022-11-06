@@ -11,6 +11,8 @@ S.NO | Mind Map
 **3** |  [Network Security Mindmap](https://www.xmind.net/m/m78Srf)
 **4** |  [How Web Works Mindmap](https://drive.google.com/file/d/1za7uHOte5vi2wvw3DT7w8bBrVcPpBmbf/view?usp=sharing)
 **5** |  [OWASP Top 10 Mindmap](https://xmind.app/m/qrpuLQ/)
+**6** |  [OWASP API Security Top 10 Mindmap](https://xmind.app/m/f2Vi3R/)
+
 
 
 -------
@@ -89,6 +91,8 @@ Day  | Topic
 **71** | [<ul><li>References & Good Reads for Several Vulnerabilities </li></ul>](/days/day71.md)
 **72** | [<ul><li>Videos - API Security </li></ul>](/days/day72.md)
 **73** | [<ul><li>Medium Writeups on API Security </li></ul>](/days/day73.md)
+**74** | [<ul><li>OWASP API Security Top 10 Mindmap </li><li> More Writeups to learn API Security </li></ul>](/days/day74.md)
+
 
 
 
