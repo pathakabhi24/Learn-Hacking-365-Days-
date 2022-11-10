@@ -95,6 +95,8 @@ Day  | Topic
 **75** | [<ul><li>Videos - Container Security </li></ul>](/days/day75.md)
 **76** | [<ul><li>Videos - Docker Security </li><li> Videos - Kubernetes Security </li></ul>](/days/day76.md)
 **77** | [<ul><li>Medium Writeups on Container Security </li></ul>](/days/day77.md)
+**78** | [<ul><li>Medium Writeups on Docker Security </li><li> Medium Writeups on Kubernetes Security </li></ul>](/days/day78.md)
+
 
 
 
