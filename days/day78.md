@@ -10,7 +10,7 @@ Index | Section
   * [More Medium Writeup on Docker Security](https://medium.com/tag/docker-security)
   * [More Medium Writeup on Kubernetes Security](https://medium.com/tag/kubernetes-security)
 
-#### Medium Wrtiteups to Learn Docker Security:
+#### Medium Writeups to Learn Docker Security:
 
   * [Writeups - Introduction to Docker Security 101](https://mafiaguy.medium.com/introduction-to-docker-security-101-4432062befa8)
   * [Writeups - Everything about Docker Security](https://medium.com/codex/everything-about-docker-security-ba2e46afd0e2)
