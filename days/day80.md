@@ -25,5 +25,5 @@ Index | Section
   * [Writeup - Kubernetes Security Best Practices: 10 Steps to Securing K8s](https://www.aquasec.com/cloud-native-academy/kubernetes-in-production/kubernetes-security-best-practices-10-steps-to-securing-k8s/)
   * [Writeup - Kubernetes Security](https://www.tigera.io/learn/guides/kubernetes-security/)
   * [Writeup - Kubernetes Security: Common Issues and Best Practices](https://snyk.io/learn/kubernetes-security/)
-  * [Writeup - What is Kubernetes Security?t](https://www.vmware.com/topics/glossary/content/kubernetes-security.html)
+  * [Writeup - What is Kubernetes Security?](https://www.vmware.com/topics/glossary/content/kubernetes-security.html)
 
