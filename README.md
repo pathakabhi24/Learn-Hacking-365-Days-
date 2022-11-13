@@ -98,6 +98,8 @@ Day  | Topic
 **78** | [<ul><li>Medium Writeups on Docker Security </li><li> Medium Writeups on Kubernetes Security </li></ul>](/days/day78.md)
 **79** | [<ul><li>More Writeups to Learn Container Security </li></ul>](/days/day79.md)
 **80** | [<ul><li>More Writeups to Learn Docker Security </li><li> More Writeups to Learn Kubernetes Security </li></ul>](/days/day80.md)
+**81** | [<ul><li>References & Good Reads for API Security </li></ul>](/days/day81.md)
+
 
 
 
