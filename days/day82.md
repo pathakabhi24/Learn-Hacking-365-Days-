@@ -9,8 +9,6 @@ ___
 
 ```
   * [A list of free resources to learn about Docker Security](https://www.linkedin.com/feed/update/urn:li:activity:6991413327725748224/)
-  * [Gitbook which gives overview of API Security](https://gowthams.gitbook.io/bughunter-handbook/api-security)
-  * [Gitbook which gives overview of API Security](https://www.marcelbelmont.com/api-workshop/docs/api-security.html)
-
+  * [Gitbook which gives overview of Docker Security](https://borosan.gitbook.io/docker-handbook/docker-security)
 
 ```
