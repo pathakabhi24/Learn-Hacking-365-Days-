@@ -1,12 +1,16 @@
-# Offensive GraphQL API Pentesting
-
 Index | Section
---- | ---
-**1** | Learning Resource
+---   | ---
+**1** | Reference & Good Reads
 
 ___
 
 
-#### Learning Resource: 
+#### References & Good Reads
 
-* https://www.youtube.com/watch?v=eKj8F9bOOvk&list=PLegn9T1wU4sXzNdQauSUzyCGNR2W__FxH&index=1
+```
+  * [A list of free resources to learn about Docker Security](https://www.linkedin.com/feed/update/urn:li:activity:6991413327725748224/)
+  * [Gitbook which gives overview of API Security](https://gowthams.gitbook.io/bughunter-handbook/api-security)
+  * [Gitbook which gives overview of API Security](https://www.marcelbelmont.com/api-workshop/docs/api-security.html)
+
+
+```
