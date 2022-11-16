@@ -101,6 +101,8 @@ Day  | Topic
 **81** | [<ul><li>References & Good Reads for API Security </li></ul>](/days/day81.md)
 **82** | [<ul><li>References & Good Reads for Docker Security </li></ul>](/days/day82.md)
 **83** | [<ul><li>Videos - Penetration Testing </li></ul>](/days/day83.md)
+**84** | [<ul><li>Medium Writeups on Penetration Testing </li></ul>](/days/day84.md)
+
 
 
 
