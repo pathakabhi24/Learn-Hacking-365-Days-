@@ -103,6 +103,8 @@ Day  | Topic
 **83** | [<ul><li>Videos - Penetration Testing </li></ul>](/days/day83.md)
 **84** | [<ul><li>Medium Writeups on Penetration Testing </li></ul>](/days/day84.md)
 **85** | [<ul><li>More Writeups on Penetration Testing </li></ul>](/days/day85.md)
+**86** | [<ul><li>Videos - Network Penetration Testing </li></ul>](/days/day86.md)
+
 
 
 
