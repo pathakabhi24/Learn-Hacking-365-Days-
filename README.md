@@ -106,6 +106,8 @@ Day  | Topic
 **86** | [<ul><li>Videos - Network Penetration Testing </li></ul>](/days/day86.md)
 **87** | [<ul><li>Writeups on Network Penetration Testing </li></ul>](/days/day87.md)
 **88** | [<ul><li>Videos - Web Application Penetration Testing </li></ul>](/days/day88.md)
+**89** | [<ul><li>Medium Writeups on Web Application Penetration Testing </li></ul>](/days/day89.md)
+
 
 
 
