@@ -110,6 +110,8 @@ Day  | Topic
 **90** | [<ul><li>More Writeups on Web Application Penetration Testing </li></ul>](/days/day90.md)
 **91** | [<ul><li>Videos - Thick Client Penetration Testing </li></ul>](/days/day91.md)
 **92** | [<ul><li>Medium Writeups on Thick Client Penetration Testing </li></ul>](/days/day92.md)
+**93** | [<ul><li>More Writeups on Thick Client Penetration Testing </li></ul>](/days/day93.md)
+
 
 
 
