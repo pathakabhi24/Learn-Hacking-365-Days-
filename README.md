@@ -111,6 +111,8 @@ Day  | Topic
 **91** | [<ul><li>Videos - Thick Client Penetration Testing </li></ul>](/days/day91.md)
 **92** | [<ul><li>Medium Writeups on Thick Client Penetration Testing </li></ul>](/days/day92.md)
 **93** | [<ul><li>More Writeups on Thick Client Penetration Testing </li></ul>](/days/day93.md)
+**94** | [<ul><li>Videos - Wireless Penetration Testing </li></ul>](/days/day94.md)
+
 
 
 
