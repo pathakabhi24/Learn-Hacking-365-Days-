@@ -113,6 +113,8 @@ Day  | Topic
 **93** | [<ul><li>More Writeups on Thick Client Penetration Testing </li></ul>](/days/day93.md)
 **94** | [<ul><li>Videos - Wireless Penetration Testing </li></ul>](/days/day94.md)
 **95** | [<ul><li>Medium Writeups on Wireless Penetration Testing </li><li> More Writeups on Wireless Penetration Security </li></ul>](/days/day95.md)
+**96** | [<ul><li>Videos - Andriod Penetration Testing </li></ul>](/days/day96.md)
+
 
 
 
