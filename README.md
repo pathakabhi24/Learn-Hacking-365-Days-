@@ -116,6 +116,8 @@ Day  | Topic
 **96** | [<ul><li>Videos - Andriod Penetration Testing </li></ul>](/days/day96.md)
 **97** | [<ul><li>Medium Writeups on Android Penetration Testing </li></ul>](/days/day97.md)
 **98** | [<ul><li>More Writeups on Android Penetration Testing </li></ul>](/days/day98.md)
+**99** | [<ul><li>Videos - Cloud Penetration Testing </li></ul>](/days/day99.md)
+
 
 
 
