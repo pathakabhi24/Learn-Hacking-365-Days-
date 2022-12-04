@@ -119,6 +119,8 @@ Day  | Topic
 **99** | [<ul><li>Videos - Cloud Penetration Testing </li></ul>](/days/day99.md)
 **100** | [<ul><li>Medium Writeups on Cloud Penetration Testing </li></ul>](/days/day100.md)
 **101** | [<ul><li>More Writeups on Cloud Penetration Testing </li></ul>](/days/day101.md)
+**102** | [<ul><li>Videos - API Penetration Testing </li></ul>](/days/day102.md)
+
 
 
 
