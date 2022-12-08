@@ -123,6 +123,8 @@ Day  | Topic
 **103** | [<ul><li>Medium Writeups on API Penetration Testing </li></ul>](/days/day103.md)
 **104** | [<ul><li>More Writeups on API Penetration Testing </li></ul>](/days/day104.md)
 **105** | [<ul><li>Videos - Social Engineering Penetration Testing </li></ul>](/days/day105.md)
+**106** | [<ul><li>More Writeups on Social Engineering Penetration Testing </li></ul>](/days/day106.md)
+
 
 
 
