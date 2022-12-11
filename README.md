@@ -12,6 +12,12 @@ S.NO | Mind Map
 **4** |  [How Web Works Mindmap](https://drive.google.com/file/d/1za7uHOte5vi2wvw3DT7w8bBrVcPpBmbf/view?usp=sharing)
 **5** |  [OWASP Top 10 Mindmap](https://xmind.app/m/qrpuLQ/)
 **6** |  [OWASP API Security Top 10 Mindmap](https://xmind.app/m/f2Vi3R/)
+**7** |  [Pentesting Methodology (Tasks & Commands)](https://xmind.app/m/f2Vi3R/)
+**8** |  [Cloud Pentest Mindmap](https://xmind.app/m/f2Vi3R/)
+**9** |  [Internal Network Pentest Mindmap](https://xmind.app/m/f2Vi3R/)
+**10** |  [Active Directory Penetration Testing Resources Mindmap](https://xmind.app/m/f2Vi3R/)
+**11** |  [API Pentesting Mindmap](https://xmind.app/m/f2Vi3R/)
+
 
 
 
@@ -126,6 +132,8 @@ Day  | Topic
 **106** | [<ul><li>More Writeups on Social Engineering Penetration Testing </li></ul>](/days/day106.md)
 **107** | [<ul><li>Videos - Mobile Penetration Testing </li></ul>](/days/day107.md)
 **108** | [<ul><li>Medium Writeups on Mobile Penetration Testing </li><li> More Writeups on Mobile Penetration Security </li></ul>](/days/day108.md)
+**109** | [<ul><li>References & Good Reads for All types of Penetration Testing </li></ul>](/days/day109.md)
+
 
 
 
