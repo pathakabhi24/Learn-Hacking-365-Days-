@@ -12,11 +12,12 @@ S.NO | Mind Map
 **4** |  [How Web Works Mindmap](https://drive.google.com/file/d/1za7uHOte5vi2wvw3DT7w8bBrVcPpBmbf/view?usp=sharing)
 **5** |  [OWASP Top 10 Mindmap](https://xmind.app/m/qrpuLQ/)
 **6** |  [OWASP API Security Top 10 Mindmap](https://xmind.app/m/f2Vi3R/)
-**7** |  [Pentesting Methodology (Tasks & Commands)](https://drive.google.com/file/d/1CuuJ_BtQwn9opuhj3D0WokSh0HZi7nO6/view?usp=sharing)(https://drive.google.com/file/d/1eU4JJTbQXguwWH_gbUQgZRc49jPBmXGH/view?usp=sharing)
-**8** |  [Cloud Pentest Mindmap](https://www.xmind.net/m/GL9YVA))
+**7** |  [Pentesting Methodology -Tasks](https://drive.google.com/file/d/1CuuJ_BtQwn9opuhj3D0WokSh0HZi7nO6/view?usp=sharing) 
+**7** |  [Pentesting Methodology -Commands](https://drive.google.com/file/d/1eU4JJTbQXguwWH_gbUQgZRc49jPBmXGH/view?usp=sharing)
+**8** |  [Cloud Pentest Mindmap](https://www.xmind.net/m/GL9YVA)
 **9** |  [Internal Network Pentest Mindmap](https://drive.google.com/file/d/1Uu0hubJVDn28B_BhHXwHcK-PZ9pVJIRw/view?usp=sharing)
-**10** |  [Active Directory Penetration Testing Resources Mindmap](https://www.xmind.net/m/XdsjzA)
-**11** |  [API Pentesting Mindmap](https://drive.google.com/file/d/1RAF93FYmXH8Isgo5IUN6LWvYqMR63f1S/view?usp=sharing)
+**10** | [Active Directory Penetration Testing Resources Mindmap](https://www.xmind.net/m/XdsjzA)
+**11** | [API Pentesting Mindmap](https://drive.google.com/file/d/1RAF93FYmXH8Isgo5IUN6LWvYqMR63f1S/view?usp=sharing)
 
 
 
